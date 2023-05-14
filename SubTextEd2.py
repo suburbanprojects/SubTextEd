@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import font, colorchooser, filedialog, messagebox, ttk
+from tkinter import font, filedialog, messagebox, ttk
 
 #put program frame here
 app = tk.Tk()
